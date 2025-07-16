@@ -4,10 +4,13 @@ This is a landing page of the LoopStudio website. It has several sections. JavaS
 
 ### Desktop version
 <img src="../all-project-assets/loopstudios/images/loopstuido_desktop.JPG">
+<br>
+<br>
 
 # Mobile version
 Here is the mobile version of the website. Everything works perfectly fine.in the top right corner we can see the mobile menu button. 
-
+<br>
+<br>
 <img src="../all-project-assets/loopstudios/images/loopstudio_mobile.JPG">
 
 # Vr section
