@@ -7,32 +7,32 @@ This is my personal portfolio site.To see more go to the portfolio project folde
 ### Desktop version
 <img src="all-project-assets/portfolio/portfolio_desktop.JPG">
 
-## Bookmark website
+# Bookmark website
 This is a landing page of a Bookmark website. It has several sections. JavaScript is used for the tabs. In the project folder, each and every screnshots will be provided.
 
 ### Desktop version
 <img src="all-project-assets/bookmark/images/bookmark_desktop.JPG">
 
-## Fylo website
+# Fylo website
 This is a landing page of the Fylo website. It has several sections. JavaScript has been used for the day and night mode. In the project folder, each and every screnshots will be provided.
 
 ### Desktop version
 <img src="all-project-assets/fylo/images/Fylo_desktop.JPG">
 
-## shorly website
+# shorly website
 This is a landing page of the shortlink website. It has several sections. JavaScript has been used in the input section.  In the project folder, each and every screnshots will be provided.
 
 ### Desktop version
 <img src="all-project-assets/shortly/images/shortly_desktop.JPG">
 
-## clipboard website
+# clipboard website
 This is a landing page of the clipboard website. It has several sections. In the project folder, each and every screnshots will be provided.
 
 ### Desktop version
 <img src="all-project-assets/clipboard/images/clipboard_desktop.JPG">
 
 
-## LoopStudio website
+# LoopStudio website
 This is a landing page of the LoopStudio website. It has several sections. JavaScript has been used in the mobile section. In the project folder, each and every screnshots will be provided.
 
 ### Desktop version
