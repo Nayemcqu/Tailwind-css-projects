@@ -7,7 +7,7 @@ This is my personal portfolio site.To see more go to the portfolio project folde
 ### Desktop version
 <img src="all-project-assets/portfolio/portfolio_desktop.JPG">
 
-##Bookmark website
+## Bookmark website
 This is a landing page of a Bookmark website. It has several sections. Javascript is used for the tabs. In the project folder each and every screnshots will be provided.
 
 <img src="all-project-assets/bookmark/images/bookmark_desktop.JPG">
