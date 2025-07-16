@@ -11,21 +11,21 @@ This is a landing page of the LoopStudio website. It has several sections. JavaS
 Here is the mobile version of the website. Everything works perfectly fine.in the top right corner we can see the mobile menu button. 
 <hr>
 <br>
-<br>
+
 <img src="../all-project-assets/loopstudios/images/loopstudio_mobile.JPG">
 
 # Vr section
 This is the VR section of the website. Relative div is used in this section so that the text overlays the picture.
 <hr>
 <br>
-<br
+<br>
 <img src="../all-project-assets/loopstudios/images/loopstuido_vr.JPG">
 
 # creation Section
 This is the creation section and was the most tough part of the website shadows, flex-box and other css properties were used in this section.
 <hr>
 <br>
-<br
+<br>
 <img src="../all-project-assets/loopstudios/images/loopstuido_creation.JPG">
 
 # Footer Section
@@ -33,5 +33,5 @@ This is the creation section and was the most tough part of the website shadows,
 This is the foooter section of the website. Flex-box and other CSS properties were used in this section.
 <hr>
 <br>
-<br
+<br>
 <img src="../all-project-assets/loopstudios/images/loopstuido_footer.JPG">
