@@ -3,7 +3,7 @@ This repository contains six Tailwind projects. Tailwind.css, which is used  wit
 These websites are for both desktop and mobile. Different screens have been used.
 
 ## project Portfolio
-This is my personal portfolio site.To see more go to the portfolio project folder where I will include each and every screenshots. 
+This is my personal portfolio site.javascript have been used in the mobile menu section as well in the tabs. To see more go to the portfolio project folder where I will include each and every screenshots. 
 ### Desktop version
 <img src="all-project-assets/portfolio/portfolio_desktop.JPG">
 
@@ -25,6 +25,13 @@ This is a landing page of the shortlink website. It has several sections. JavaSc
 ### Desktop version
 <img src="all-project-assets/shortly/images/shortly_desktop.JPG">
 
+# LoopStudio website
+This is a landing page of the LoopStudio website. It has several sections. JavaScript has been used in the mobile section. In the project folder, each and every screnshots will be provided.
+
+### Desktop version
+<img src="all-project-assets/loopstudios/images/loopstuido_desktop.JPG">
+
+
 # clipboard website
 This is a landing page of the clipboard website. It has several sections. In the project folder, each and every screnshots will be provided.
 
@@ -32,8 +39,3 @@ This is a landing page of the clipboard website. It has several sections. In the
 <img src="all-project-assets/clipboard/images/clipboard_desktop.JPG">
 
 
-# LoopStudio website
-This is a landing page of the LoopStudio website. It has several sections. JavaScript has been used in the mobile section. In the project folder, each and every screnshots will be provided.
-
-### Desktop version
-<img src="all-project-assets/loopstudios/images/loopstuido_desktop.JPG">
