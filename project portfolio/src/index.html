@@ -1,0 +1,338 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="./output.css" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital
+,wght@0,300..800;1,300..800&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+<script src="../src/script.js" defer></script>
+</head>
+<body class="overflow-x-hidden">
+<!--Nav -->
+<nav class=" relative  mx-auto  bg-gradient-to-r from-blue-500 to-green-400">
+
+
+
+
+
+
+    <!--container for nav items-->
+<div class="flex  justify-between items-center ">
+
+<h2 class=" z-30 md:py-0 px-4 py-4 font-bold text-3xl  md:text-4xl text-white font-heading cursor-pointer  hover:bg-gradient-to-t from-red-400 to-orange-700 hover:bg-clip-text
+hover:text-transparent transition-all ">
+    Portfolio
+</h2>
+
+<div class="hidden md:flex items-center  font-bold  text-white  ">
+
+
+<div  class="relative cursor-pointer  group  h-full py-6  px-8 font-semibold text-xl hover:bg-white/30 hover:text-zinc-100 transition-all">
+    <span>About</span>
+<div class="hidden z-20 whitespace-nowrap absolute top-full text-white bg-green-300 rounded-b-md   text-center
+ right-0 divide-y-2 group-hover:block ">
+
+<div class="p-2 px-6 hover:bg-green-500/80 text-center  hover:text-white transition-all"><span>Nationality</span></div>
+<div class="p-2 px-6 hover:bg-green-500/80 hover:text-white transition-all"><span>Family</span></div>
+
+</div>
+
+
+
+</div>
+
+<div  class="relative cursor-pointer flex items-center h-full py-6 px-8 
+font-semibold text-xl  hover:bg-white/30 hover:text-zinc-100 group">
+    <span>skills</span>
+<div class="hidden z-20 absolute top-full whitespace-nowrap text-white bg-green-300 rounded-b-md  text-center
+ right-0 divide-y-2 group-hover:block ">
+
+<div class="p-2 px-6 hover:bg-green-500/80 text-center 
+ hover:text-white transition-all"><span>HTML & CSS</span></div>
+<div class="p-2 px-6 hover:bg-green-500/80 hover:text-white 
+transition-all"><span>Tailwind css</span></div>
+
+<div class="p-2 px-6 hover:bg-green-500/80 hover:text-white 
+transition-all"><span>javascript</span></div>
+
+<div class="p-2 px-6 hover:bg-green-500/80 hover:text-white 
+transition-all"><span>React</span></div>
+
+</div>
+
+
+</div>
+<div  class="relative group cursor-pointer flex items-center h-full py-6
+ px-8 font-semibold text-xl  hover:bg-white/30 hover:text-zinc-100 ">
+    <span>Education</span>
+
+<div class="hidden  whitespace-nowrap absolute  top-full text-white bg-green-300 rounded-b-md   text-center
+ right-0 divide-y-2 group-hover:block ">
+
+<div class="p-2 px-6 hover:bg-green-500/80 text-center  hover:text-white transition-all"><span>BSC on CSE</span></div>
+<div class="p-2 px-6 hover:bg-green-500/80 hover:text-white transition-all"><span>MSC on IT </span></div>
+
+</div>
+    
+
+</div>
+<div  class="relative  group cursor-pointer flex items-center h-full py-6
+ px-8 font-semibold text-xl  hover:bg-white/30 hover:text-zinc-100 ">
+    
+    <span>Contacts</span>
+
+<div class="hidden whitespace-nowrap absolute top-full text-white bg-green-300 rounded-b-md   text-center
+ right-0 left-0 divide-y-2 group-hover:block ">
+
+<div class="p-2 px-6 hover:bg-green-500/80 text-center  hover:text-white transition-all"><span>Phone</span></div>
+<div class="p-2 px-6 hover:bg-green-500/80 hover:text-white transition-all"><span>Email</span></div>
+
+</div>
+</div>
+
+</div>
+
+<!-- Hamburger button-->
+<button id="menu-btn" class="z-30  block md:hidden focus:outline-none hamburger">
+<span class=" hamburger-top"></span>
+<span class=" hamburger-middle"></span>
+<span class=" hamburger-bottom"></span>
+</button>
+
+<!--Menu container-->
+
+<div id="menu-container" class="md:hidden hidden fixed inset-0 bg-green-500 z-20 
+ flex-col items-center tracking-widest text-white w-full h-full 
+min-h-screen text-center divide-y-2 py-32 font-semibold">
+
+<div  class="menu group w-full  hover:bg-green-400">
+<a href="#about"  class="block py-3">about</a>
+<div class="hidden  flex-col w-full bg-green-300 divide-y-2 align-center">
+<a href="" class="p-3">Nationality</a>
+<a href="" class="p-3">Family</a>
+</div>
+</div>
+<div  class="menu group w-full hover:bg-green-400">
+<a href="#about" class="block py-3">Skills</a>
+<div class=" hidden flex-col w-full bg-green-300 divide-y-2 align-center">
+<a href="" class="p-3">HTML&CSS</a>
+<a href="" class="p-3">Tailwind css</a>
+<a href="" class="p-3">JavaScript</a>
+<a href="" class="p-3">React</a>
+</div>
+</div>
+<div class="menu group w-full  hover:bg-green-400">
+<a href="#about" class="block py-3">Education</a>
+<div class="hidden  flex-col w-full bg-green-300 divide-y-2 align-center">
+<a href="" class="p-3">Bachelor In CSE</a>
+<a href="" class="p-3">Masters in IT</a>
+</div>
+
+</div>
+
+
+<div class="menu w-full group  hover:bg-green-400">
+   <a href="#Contacts" class="block py-3">about</a>
+<div class="hidden  flex-col w-full bg-green-300 divide-y-2 align-center">
+<a href="" class="p-3">Phone</a>
+<a href="" class="p-3">Email</a>
+</div> 
+</div>
+</div>
+
+</div>
+
+</nav>
+
+<!--Hero section -->
+
+<section class=" mb-32">
+
+<div class="container mx-auto flex flex-col-reverse items-center space-y-8 md:flex-row md:space-y-0 ">
+
+<!--Bio container-->
+
+<div class="flex flex-col space-y-6 md:w-1/2 text-center md:text-left  ">
+
+<h1 class="text-4xl md:text-5xl font-bold text-slate-800 mt-6 md:mt-0">Front End Developer</h1>
+
+<p class="font-light text-base text-slate-600 max-w-md mx-auto md:mx-0"> Hi I am <span class="font-semibold text-cyan-300">Nayem khan</span>. I am a frontEnd Developer
+    .Recently graduated and learned html & css.have proficiency in javascript and tailwind css. 
+    Right now learning React. I have 6 years of programming experience.have kowledge in c, java,algorithms.</p>
+
+</div>
+<div class="relative md:w-1/2 md:pt-16 md:ml-20 ">
+
+<div class="bg-hero "></div>
+<img src="../public/images/hero.jpg" alt="" class="relative rounded-full w-[400px] h-[400px] z-10">
+
+</div>
+</div>
+</section>
+
+<!--Project section-->
+
+<section class="container mx-auto mb-20">
+
+    <h2 class="text-6xl text-slate-800 md:text-4xl text-center mb-5 font-bold">
+        Projects
+    </h2>
+<p class="text-base text-slate-500 text-center max-w-md mx-auto">
+Down below are my tailwind web projects which i have done by completing the udemy courses.
+ i have learned a lot from the udemy course.
+
+</p>
+
+<div class="max-w-xl  mx-auto flex flex-col items-center justify-center space-y-8 mt-20 border-b
+  mb-6 text-slate-800 md:flex-row md:space-y-0 md:space-x-16 ">
+
+<!--project 1-->
+
+<div class=" w-full flex justify-center text-center border-b md:border-b-0 md:w-1/3 cursor-pointer panel" data-target="panel-1">
+
+ <div class="text-xl font-bold py-5 border-b-4 border-orange-500">Loopstudio</div>
+</div>
+
+<!--project 2-->
+
+<div class="w-full flex justify-center  border-b md:border-b-0 md:w-1/3 cursor-pointer panel" data-target="panel-2">
+
+ <div class="text-xl font-bold py-5">Fylo</div>
+</div>
+
+<!--project 3-->
+
+<div class="w-full flex justify-center  border-b md:border-b-0 md:w-1/3 cursor-pointer panel" data-target="panel-3">
+
+ <div class="text-xl font-bold py-5">Bookmark</div>
+</div>
+</div>
+<div class="tabs">
+<!--tab panel 1-->
+
+<div class="mt-20 flex w-[80%] mx-auto flex-col md:flex-row panel-1">
+
+<div class="flex md:w-1/2 mx-auto">
+
+<img src="../public/images/project loopstuido.JPG" alt="">
+
+</div>
+
+<div class="flex flex-col md:text-left text-center md:w-1/2 md:mt-5">
+<h2 class="text-4xl mt-5 text-slate-800 font-bold"> Project Loopstudio</h2>
+<p class="text-base font-semibold text-slate-500 text-center md:text-left max-w-md mt-5"> This project is very exciting this is a 
+    frontend replica of a Loopstudio website. Here  javascript is used for some of the functionalities.</p>
+
+
+</div>
+
+</div>
+
+<!--panel 2-->
+<div class="mt-20 hidden w-[80%] mx-auto flex-col md:flex-row panel-2">
+
+<div class="flex md:w-1/2 mx-auto">
+
+<img src="../public/images/project fylo.JPG" alt="">
+
+</div>
+
+<div class="flex flex-col md:text-left text-center md:w-1/2 md:mt-5">
+<h2 class="text-4xl mt-5 text-slate-800 font-bold"> Project Fylo</h2>
+<p class="text-base font-semibold text-slate-500 text-center md:text-left max-w-md mt-5"> This project is very exciting this is a 
+    frontend replica of a Fylo website. Here vanilla javascript is used for some of the functions. Also day and night mode is also used.</p>
+
+
+</div>
+
+</div>
+
+<!--tab panel 3-->
+<div class="mt-20 hidden w-[80%] mx-auto flex-col md:flex-row panel-3">
+
+<div class="flex md:w-1/2 mx-auto">
+
+<img src="../public/images/project bookmark.JPG" alt="">
+
+</div>
+
+<div class="flex flex-col md:text-left text-center md:w-1/2 md:mt-5">
+
+<h2 class="text-4xl mt-5 text-slate-800 font-bold"> Project Bookmark</h2>
+<p class="text-base font-semibold text-slate-500 text-center md:text-left max-w-md mt-5"> This project is very exciting this is a 
+    frontend replica of a bookmark website. Here vanilla javascript is used for the tabs.</p>
+
+
+</div>
+
+
+</div>
+</div>
+
+
+</section>
+
+<!--subscribe container-->
+
+<section class="mx-auto bg-blue-500 px-20 py-10  text-white">
+<h2 class="text-4xl font-bold  md:text-5xl text-center mb-10">Subscribe Now</h2>
+<div class="flex flex-col max-w-2xl mx-auto py-6 px-6 space-y-6 
+bg-green-500 md:flex-row md:space-x-6 md:space-y-0 shadow-lg rounded-md">
+
+<input type="text" class="px-6 py-3 rounded-lg flex-1 focus:outline-none border" placeholder="Enter your Email">
+
+<button class="px-6 py-2 text-white bg-blue-700 focus-oultine-none  shadow-lg hover:scale-105
+ hover:opacity-70 hover:text-zinc-50 transition-all border-2 border-blue-700 rounded-lg">
+    Subscribe
+</button>
+
+</div>
+
+</section>
+
+
+<!--footer-->
+<section class="bg-slate-900 py-10 px-10 text-white">
+
+<footer>
+
+<div class="flex flex-col justify-between items-center space-y-10 md:flex-row md:space-y-0">
+
+<div class="flex flex-col space-y-6 items-center md:flex-row md:space-x-8 md:space-y-0  text-xl ">
+<div class="font-bold text-3xl">portfolio</div>
+<div class="font-light cursor-pointer  hover:scale-105 transition-all">About </div>
+<div class="font-light  cursor-pointer hover:scale-105 transition-all">skills </div>
+<div class="font-light  cursor-pointer hover:scale-105 transition-all">Education </div>
+<div class="font-light cursor-pointer hover:scale-105 transition-all">Contacts</div>
+</div>
+
+<div class="flex flex-col items-center space-y-6 md:flex-row md:space-x-8 md:space-y-0">
+
+<a href="http://https://www.facebook.com/nayeem.khan.9231">
+<img class="ficon" src="../public/images/icon-facebook.svg" alt="">
+</a>
+<a href="http://">
+<img class="ficon" src="../public/images/instagram.svg" alt="">
+</a>
+
+<a  href="mailto:nayem178548@gmail.com">
+    <img class="ficon" src="../public/images/icon-email.svg" alt="">
+</a>
+<a href="tel:+61452269152">
+    <img class="ficon" src="../public/images/icon-phone.svg" alt="">
+</a>
+</div>
+
+
+</div>
+
+</footer>
+
+</section>
+
+
+</body>
+</html>
