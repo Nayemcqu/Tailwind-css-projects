@@ -27,7 +27,7 @@ This is the statistics section and was the most tough part of the website shadow
 <hr>
 <br>
 <br>
-<img src="../all-project-assets/shortly/images/shotly_statistics.JPG">
+<img src="../all-project-assets/shortly/images/shortly_statistics.JPG">
 
 # Footer Section
 
