@@ -5,4 +5,4 @@ These websites are for both desktop and mobile. Different screens have been used
 ## project Portfolio
 This is my personal portfolio site. 
 
-<img src="../all-project-assets/portfolio/portfolio_desktop.JPG">
+<img src="all-project-assets/portfolio/portfolio_desktop.JPG">
