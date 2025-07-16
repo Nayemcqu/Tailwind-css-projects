@@ -13,7 +13,7 @@ Here is the mobile version of the website. Everything works perfectly fine.in th
 <hr>
 <br>
 
-<img src="../all-project-assets/shrotly/images/shortly_mobile.JPG">
+<img src="../all-project-assets/shortly/images/shortly_mobile.JPG">
 
 # Link section
 This is the Link section of the website. Relative div is used in this section so that the text overlays the picture.
