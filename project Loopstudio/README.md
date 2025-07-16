@@ -23,4 +23,4 @@ This is the creation section and was the most tough part of the website shadows,
 ## Footer Section
 
 This is the foooter section of the website. Flex-box and other CSS properties were used in this section.
-<img src="../all-project-assets/loopstudios/images/loopstuido_footer.JPG>
+<img src="../all-project-assets/loopstudios/images/loopstuido_footer.JPG">
