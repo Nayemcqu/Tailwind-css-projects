@@ -23,7 +23,7 @@ This is a landing page of the Fylo website. It has several sections. JavaScript 
 This is a landing page of the shortlink website. It has several sections. JavaScript has been used in the input section.  In the project folder, each and every screnshots will be provided.
 
 ### Desktop version
-<img src="all-project-assets/shortly/images/shorly_desktop.JPG">
+<img src="all-project-assets/shortly/images/shortly_desktop.JPG">
 
 ## clipboard website
 This is a landing page of the clipboard website. It has several sections. In the project folder, each and every screnshots will be provided.
