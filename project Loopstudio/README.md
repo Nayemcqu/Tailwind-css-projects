@@ -6,4 +6,4 @@ This is a landing page of the LoopStudio website. It has several sections. JavaS
 <img src="../all-project-assets/loopstudios/images/loopstuido_desktop.JPG">
 
 ### Mobile version
-<img src="../all-project-assets/loopstudios/images/loopstuido_mobile.JPG">
+<img src="../all-project-assets/loopstudios/images/loopstudio_mobile.JPG">
