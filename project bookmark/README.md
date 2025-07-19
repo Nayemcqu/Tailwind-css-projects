@@ -35,4 +35,4 @@ This is the foooter section of the website. Flex-box and other CSS properties we
 <hr>
 <br>
 <br>
-<img src="../all-project-assets/bookmark/images/bookamark_footer.JPG">
+<img src="../all-project-assets/bookmark/images/bookmark_footer.JPG">
