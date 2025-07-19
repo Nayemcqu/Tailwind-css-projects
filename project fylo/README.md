@@ -3,7 +3,7 @@
 This is a landing page of the fylo website. It has several sections. JavaScript has been used in the mobile section.
 
 ### Desktop version
-<img src="../all-project-assets/fylo/images/fylo_desktop.JPG">
+<img src="../all-project-assets/fylo/images/Fylo_desktop.JPG">
 <br>
 <br>
 
@@ -26,7 +26,7 @@ This is the prductive section and was the most tough part of the website shadows
 <hr>
 <br>
 <br>
-<img src="../all-project-assets/fylo/images/fylo_productive.JPG">
+<img src="../all-project-assets/fylo/images/fylo_Productive.JPG">
 
 # reference Section
 This is the reference section and was the most tough part of the website shadows, flex-box and other css properties were used in this section.
