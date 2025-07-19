@@ -1,6 +1,6 @@
 
 # Fylo website
-This is a landing page of the fylo website. It has several sections. JavaScript has been used in the mobile section.
+This is a landing page of the fylo website. It has several sections. JavaScript has been used in the <b>DAY mode and light mode</b> section.
 
 ### Desktop version
 <img src="../all-project-assets/fylo/images/Fylo_desktop.JPG">
